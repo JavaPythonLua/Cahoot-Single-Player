@@ -1,3 +1,7 @@
+
+# Copyright (c) 2025 JavaPythonLua
+# Licensed under the GNU General Public License - See LICENSE file for details.
+
 import socket
 import multiprocessing
 import time
